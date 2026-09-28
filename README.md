@@ -15,3 +15,13 @@ Welcoome to my 4-week internship onboarding repository. This repo tracks my dail
 **Database:** PostgreSQL 16+
 **Frameworks:** Django, Django REST Framework (DRF)
 **Tools:** Git, GitHub, VS Code, Postman
+
+
+
+## Daily Git Workflow
+1. **Get latest code:** `git pull`
+2. **Create branch:** `git switch -c day-xx-feature`
+3. **Check status:** `git status`
+4. **Stage & Commit:** `git add .` -> `git commit -m "message"`
+5. **Push:** `git push -u origin day-xx-feature`
+6. **PR:** Open a Pull Request on GitHub for mentor review & merge.
