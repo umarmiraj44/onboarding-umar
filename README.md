@@ -8,3 +8,10 @@ Welcoome to my 4-week internship onboarding repository. This repo tracks my dail
  **Week 2:** Python OOP, practical idioms & PostgreSQL database design.
  **Week 3:** Connect Python with PostgreSQL & build web apps using Django.
  **Week 4:** Build REST APIs using Django REST Framework (DRF) & Capstone Project.
+
+
+## Tech Stack
+**Language:** Python 3.12+
+**Database:** PostgreSQL 16+
+**Frameworks:** Django, Django REST Framework (DRF)
+**Tools:** Git, GitHub, VS Code, Postman
